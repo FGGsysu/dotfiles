@@ -425,8 +425,8 @@ let g:asyncrun_trim = 1
 
 " vim-instant_markdown ------- {{{
 " let it be slow (real-time update seems not mystyle)
-let g:instant_markdown_slow = 0
-" let g:instant_markdown_slow = 1
+" let g:instant_markdown_slow = 0
+let g:instant_markdown_slow = 1
 " manual trigger the preview window
 let g:instant_markdown_autostart = 0
 " uses MathJax
